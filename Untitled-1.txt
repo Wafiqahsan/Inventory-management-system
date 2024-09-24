@@ -1,0 +1,2 @@
+allno =[input("no1"),input("no"),input("no3"),input("no3")]
+maxi= max(allno)
